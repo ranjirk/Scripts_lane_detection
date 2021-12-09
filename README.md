@@ -1,5 +1,5 @@
 # Scripts_lane_detection
-  Run datection.py with image file as argument.
+  Run detection.py with image file as argument.
     >>python detection.py img.jpg
   "new_image.png" will be generated with lane highlighted in translucent white.
 Preprocess image by
